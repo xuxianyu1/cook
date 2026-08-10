@@ -1,0 +1,152 @@
+{
+  "title": "啤酒鸭",
+  "slug": "beer-duck",
+  "summary": "酱香浓郁、带一点微辣和麦香，鸭肉焖到软而不散，特别适合拌饭或配面。",
+  "difficulty": "进阶",
+  "time": {
+    "label": "60分钟左右"
+  },
+  "tags": {
+    "mainIngredient": "鸭肉",
+    "flavor": "酱香微辣",
+    "scene": [
+      "下饭",
+      "聚餐",
+      "硬菜"
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "鸭肉",
+      "amount": "半只到1只，约1000g"
+    },
+    {
+      "name": "土豆",
+      "amount": "2个，切滚刀块"
+    },
+    {
+      "name": "青椒",
+      "amount": "1个，切块"
+    },
+    {
+      "name": "红椒",
+      "amount": "1个，切块"
+    },
+    {
+      "name": "姜",
+      "amount": "1大块，切片"
+    },
+    {
+      "name": "蒜",
+      "amount": "6瓣，拍散"
+    },
+    {
+      "name": "葱段",
+      "amount": "2根"
+    },
+    {
+      "name": "八角",
+      "amount": "2个"
+    },
+    {
+      "name": "香叶",
+      "amount": "2片"
+    },
+    {
+      "name": "干辣椒",
+      "amount": "5到8个"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "啤酒",
+      "amount": "1罐到1瓶，约500ml"
+    },
+    {
+      "name": "生抽",
+      "amount": "2勺"
+    },
+    {
+      "name": "老抽",
+      "amount": "1勺"
+    },
+    {
+      "name": "蚝油",
+      "amount": "1勺"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "1勺"
+    },
+    {
+      "name": "冰糖",
+      "amount": "6到8粒"
+    },
+    {
+      "name": "盐",
+      "amount": "出锅前按口补"
+    }
+  ],
+  "steps": [
+    {
+      "title": "处理鸭肉去腥",
+      "heat": "中火焯水",
+      "timing": "正式炒制前",
+      "judgement": "鸭块表面无明显血沫，捞出后肉色变浅",
+      "content": "鸭肉切成略大块，冷水下锅，加几片姜和少许料酒，慢慢加热到沸腾。水开后撇去浮沫，再煮2分钟捞出，用温水冲洗干净并尽量沥干。鸭皮上的黄油如果太厚，可以顺手切掉一部分，避免成品过腻。",
+      "note": "一定要冷水下锅，才能把血水更充分逼出来；焯完后不要用冷水猛冲，肉会收紧影响后续焖煮口感。"
+    },
+    {
+      "title": "煸出鸭油打基础香味",
+      "heat": "中小火慢煸",
+      "timing": "鸭肉下锅后的前8到10分钟",
+      "judgement": "锅底有一层清亮鸭油，鸭皮边缘微黄",
+      "content": "锅中不必额外放太多油，先下鸭块煸炒，让鸭皮里的油慢慢逼出来。期间不断翻动，防止局部焦糊。等鸭肉水汽明显减少、表面开始紧实，再下姜片、蒜瓣、八角、香叶、干辣椒继续煸香，让香味融进鸭油里。",
+      "note": "这一步决定香味层次，火不能太大，否则外面焦了里面水汽还没出完，后面焖出来会发腥。"
+    },
+    {
+      "title": "炒酱上色",
+      "heat": "中火",
+      "timing": "鸭肉微黄后立即进行",
+      "judgement": "豆瓣酱炒出红油，鸭肉均匀挂色",
+      "content": "把鸭肉拨到锅边，留一点油在中间，下豆瓣酱炒出红油，再加入生抽、老抽、蚝油和冰糖。快速翻炒，让每块鸭肉都裹上酱色，此时锅里会出现浓郁的酱香和一点甜辣味。",
+      "note": "老抽只负责提色，不要放多；豆瓣酱本身有盐味，最后调盐要谨慎。"
+    },
+    {
+      "title": "啤酒焖煮入味",
+      "heat": "先大火烧开，再小火焖",
+      "timing": "调味上色完成后",
+      "judgement": "筷子能较轻松扎入鸭肉，但肉块仍完整不散",
+      "content": "倒入啤酒，液面最好能没过鸭肉的三分之二，不够可补一点热水。大火煮开后转小火，加盖焖25到35分钟。焖到一半时翻动一次，避免底部粘锅，同时尝一下汤汁咸淡，心里有数但先不要急着补盐。",
+      "note": "整道菜的香味来自鸭香、酱香和啤酒麦香的融合，焖的时候不要频繁开盖，香气会跑掉。"
+    },
+    {
+      "title": "加入土豆和彩椒收汁",
+      "heat": "中火收汁",
+      "timing": "鸭肉接近软烂时",
+      "judgement": "土豆熟而不碎，汤汁浓稠能挂在鸭块表面",
+      "content": "下土豆块继续焖8到10分钟，等土豆熟透后再放青红椒块，大火翻炒收汁。此时观察汤汁状态，应该从偏稀变成能均匀包裹食材的浓亮酱汁。尝味后按需补少量盐即可，最后撒葱段翻匀出锅。",
+      "note": "彩椒不要下太早，否则会失去颜色和清甜口感；土豆若切太小，容易在收汁阶段炒碎。"
+    }
+  ],
+  "tips": "如果喜欢更浓重的啤酒香，可选麦香更明显的啤酒；如果鸭肉较老，焖煮时间可延长10分钟，但注意后期再下土豆，避免炖化。",
+  "images": {
+    "cover": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Braised%20duck%20teochew.jpg?width=1400",
+      "fallbackSrc": "./assets/images/beer-duck-cover.svg",
+      "alt": "啤酒鸭参考图"
+    },
+    "gallery": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Braised%20duck%20teochew.jpg?width=1400",
+        "fallbackSrc": "./assets/images/beer-duck-cover.svg",
+        "alt": "啤酒鸭成品图"
+      },
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20boiling%20pot%20of%20spicy%20chicken%20stew%20on%20the%20stove.jpg?width=1400",
+        "fallbackSrc": "./assets/images/beer-duck-step-1.svg",
+        "alt": "啤酒鸭锅中焖煮图"
+      }
+    ]
+  }
+}
