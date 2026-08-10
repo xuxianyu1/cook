@@ -1,0 +1,124 @@
+{
+  "title": "白切鸡",
+  "slug": "poached-chicken",
+  "summary": "鸡肉嫩滑、皮爽肉香，重点在火候和浸泡，让鸡肉熟而不柴、断面仍保汁水。",
+  "difficulty": "进阶",
+  "time": {
+    "label": "45分钟左右"
+  },
+  "tags": {
+    "mainIngredient": "鸡肉",
+    "flavor": "鲜香清爽",
+    "scene": [
+      "宴客",
+      "清淡",
+      "经典"
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "三黄鸡或嫩鸡",
+      "amount": "1只，约1200g"
+    },
+    {
+      "name": "姜",
+      "amount": "1大块"
+    },
+    {
+      "name": "葱",
+      "amount": "3根"
+    },
+    {
+      "name": "冰水",
+      "amount": "1大盆"
+    },
+    {
+      "name": "香菜",
+      "amount": "少许，可选"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "姜蓉",
+      "amount": "3勺"
+    },
+    {
+      "name": "葱花",
+      "amount": "2勺"
+    },
+    {
+      "name": "热花生油",
+      "amount": "3勺"
+    },
+    {
+      "name": "生抽",
+      "amount": "2到3勺"
+    },
+    {
+      "name": "盐",
+      "amount": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "title": "鸡身预处理",
+      "heat": "无",
+      "timing": "下锅前",
+      "judgement": "鸡身内外清理干净，表面尽量擦干",
+      "content": "把整鸡内腔的血块和杂质清理干净，剪掉多余鸡油和鸡屁股，冲洗后擦干。姜拍裂、葱打结备用。鸡如果太大，可以在腿根轻轻划一刀，帮助受热更均匀，但不要切断外形。",
+      "note": "鸡越新鲜，这道菜越好吃；如果鸡是冷冻解冻的，口感和鸡味会弱一些。"
+    },
+    {
+      "title": "三提三放定型",
+      "heat": "中火至微沸",
+      "timing": "鸡下锅最开始的2分钟",
+      "judgement": "鸡皮表面受热均匀，内腔开始有热水进入",
+      "content": "锅里放足量水，加入姜和葱，烧到锅边有连续小泡、但不是翻滚大开时，把鸡提着下锅浸没，再提起，重复3次。这样做是让鸡腔内外温度逐渐接近，防止外熟里生，同时帮助鸡皮定型更完整。",
+      "note": "水温过猛会把鸡皮冲破，也容易让鸡胸部位发柴，所以保持微沸最稳。"
+    },
+    {
+      "title": "浸煮而不是猛煮",
+      "heat": "保持微沸",
+      "timing": "三提三放后开始计时",
+      "judgement": "鸡腿最厚处扎下去无血水，流出的是淡黄色汁水",
+      "content": "把鸡完全浸入锅中，保持水面微微颤动的状态，小火煮12到15分钟，然后关火焖15到20分钟。具体时间要看鸡大小。焖的过程是让余温把内部慢慢成熟，这样鸡胸不会老、鸡腿也能熟透。",
+      "note": "不要一直大火煮滚，白切鸡最怕粗暴加热，肉会散失汁水，口感发紧。"
+    },
+    {
+      "title": "冰水激皮锁汁",
+      "heat": "无",
+      "timing": "鸡刚熟立即进行",
+      "judgement": "鸡皮收紧、摸上去更弹，表面温度迅速下降",
+      "content": "鸡捞出后立刻浸入冰水中3到5分钟，再捞出沥干。冰水能让鸡皮更爽口，也帮助肉汁稳定在鸡肉内部。沥干后可在表面刷一层薄薄的熟油，让鸡皮颜色更漂亮，也避免风干。",
+      "note": "冰水时间不宜太长，过久会让鸡肉变凉过头，切块时香气不足。"
+    },
+    {
+      "title": "切件摆盘并调蘸料",
+      "heat": "热油激香",
+      "timing": "上桌前",
+      "judgement": "切面整齐，骨边刚熟不见血红，姜葱蘸料香气明显",
+      "content": "鸡先斩下腿和翅，再切胸肉和鸡背，尽量顺着骨节下刀，保证块型整齐。把姜蓉、葱花、少许盐放碗里，烧热花生油直接淋上，再加入生抽调匀。鸡块摆盘后可以淋少量原汁或熟油保持湿润。",
+      "note": "刀要够快够利，动作拖泥带水容易把鸡皮拉破，影响卖相。"
+    }
+  ],
+  "tips": "第一次做白切鸡时，宁可提前用温度计确认腿根中心温度，也不要凭感觉硬猜；掌握“微沸+关火焖”的逻辑后，成品会稳定很多。",
+  "images": {
+    "cover": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BeiQieJi-WhiteCutChicken.jpg?width=1400",
+      "fallbackSrc": "./assets/images/poached-chicken-cover.svg",
+      "alt": "白切鸡参考图"
+    },
+    "gallery": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/BeiQieJi-WhiteCutChicken.jpg?width=1400",
+        "fallbackSrc": "./assets/images/poached-chicken-cover.svg",
+        "alt": "白切鸡成品图"
+      },
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Poached%20chicken.jpg?width=1400",
+        "fallbackSrc": "./assets/images/poached-chicken-step-1.svg",
+        "alt": "白切鸡锅中浸煮图"
+      }
+    ]
+  }
+}
