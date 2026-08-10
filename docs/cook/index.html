@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>家常菜谱记录</title>
+    <meta
+      name="description"
+      content="精美的家常菜谱记录站，支持搜索、食材筛选、收藏与详细步骤查看。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__content">
+          <p class="eyebrow">Daily Cooking Notebook</p>
+          <h1>家常菜谱记录</h1>
+          <p class="hero__lead">
+            记录每天做过的菜，沉淀自己的厨房经验。支持搜索、按食材筛选、收藏常做菜，并为每道菜保留详细步骤与图片。
+          </p>
+          <div class="hero__stats" id="hero-stats"></div>
+        </div>
+        <div class="hero__panel">
+          <div class="spotlight-card">
+            <span class="spotlight-card__label">今日灵感</span>
+            <h2 id="spotlight-title">今天吃什么？</h2>
+            <p id="spotlight-summary">先点“随机一道菜”，再用“换一道试试”继续挑选。</p>
+            <div class="spotlight-card__actions">
+              <button id="spotlight-random" class="button button--primary">随机一道菜</button>
+              <button id="spotlight-shuffle" class="button button--secondary" disabled>换一道试试</button>
+              <button id="spotlight-open" class="button button--ghost" disabled>查看做法</button>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel controls">
+            <div class="panel__header">
+              <h2>搜索与筛选</h2>
+              <button id="reset-filters" class="button button--ghost">清空</button>
+            </div>
+
+            <label class="field">
+              <span>搜索菜名 / 关键词</span>
+              <input id="search-input" type="search" placeholder="例如：鸡、香辣、焯水、下饭" />
+            </label>
+
+            <label class="field">
+              <span>按食材输入找菜</span>
+              <input
+                id="ingredient-input"
+                type="text"
+                placeholder="例如：鸡肉 土豆 青椒（空格/逗号分隔）"
+              />
+            </label>
+
+            <div class="field-grid">
+              <label class="field">
+                <span>主食材</span>
+                <select id="main-ingredient-filter">
+                  <option value="">全部</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>口味</span>
+                <select id="flavor-filter">
+                  <option value="">全部</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>难度</span>
+                <select id="difficulty-filter">
+                  <option value="">全部</option>
+                </select>
+              </label>
+              <label class="field">
+                <span>预计时长</span>
+                <select id="time-filter">
+                  <option value="">全部</option>
+                </select>
+              </label>
+            </div>
+
+            <label class="checkbox">
+              <input id="favorites-only" type="checkbox" />
+              <span>只看已收藏</span>
+            </label>
+          </section>
+
+          <section class="panel helper-panel">
+            <div class="panel__header">
+              <h2>使用建议</h2>
+            </div>
+            <ul class="tips-list">
+              <li>食材搜索支持空格、中文逗号、英文逗号分隔。</li>
+              <li>结果会标注“完全匹配 / 部分匹配”，方便决定今天做什么。</li>
+              <li>点击菜卡可查看详细步骤目录、火候提示和注意事项。</li>
+              <li>收藏功能保存在浏览器本地，方便快速找回常做菜。</li>
+            </ul>
+          </section>
+        </aside>
+
+        <section class="content">
+          <div class="content__header">
+            <div>
+              <p class="eyebrow">Recipe Collection</p>
+              <h2>菜谱总览</h2>
+            </div>
+            <p id="results-summary" class="results-summary">加载中...</p>
+          </div>
+
+          <div id="active-chips" class="chips"></div>
+          <div id="recipe-grid" class="recipe-grid"></div>
+          <div id="empty-state" class="panel empty-state hidden">
+            <h3>没有找到匹配的菜谱</h3>
+            <p>试试减少食材、清空筛选，或者新增一道你的拿手菜。</p>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="recipe-dialog" class="recipe-dialog">
+      <article class="recipe-sheet">
+        <button id="dialog-close" class="dialog-close" aria-label="关闭详情">×</button>
+        <div id="recipe-detail"></div>
+      </article>
+    </dialog>
+
+    <template id="recipe-card-template">
+      <article class="recipe-card">
+        <button class="recipe-card__favorite" type="button" aria-label="收藏"></button>
+        <div class="recipe-card__image-wrap">
+          <img class="recipe-card__image" alt="" loading="lazy" />
+        </div>
+        <div class="recipe-card__body">
+          <div class="recipe-card__meta"></div>
+          <h3 class="recipe-card__title"></h3>
+          <p class="recipe-card__summary"></p>
+          <div class="recipe-card__footer">
+            <span class="recipe-card__match"></span>
+            <button class="button button--secondary" type="button">查看详情</button>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./data/recipes-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
