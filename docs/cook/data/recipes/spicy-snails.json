@@ -1,0 +1,152 @@
+{
+  "title": "香辣田螺",
+  "slug": "spicy-snails",
+  "summary": "麻辣鲜香、后劲足，田螺肉紧实弹牙，特别适合夏天配冰饮慢慢嗦。",
+  "difficulty": "稍有挑战",
+  "time": {
+    "label": "60分钟左右"
+  },
+  "tags": {
+    "mainIngredient": "田螺",
+    "flavor": "香辣麻辣",
+    "scene": [
+      "夜宵",
+      "下酒",
+      "聚会"
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "田螺",
+      "amount": "1500g"
+    },
+    {
+      "name": "紫苏",
+      "amount": "1小把"
+    },
+    {
+      "name": "姜",
+      "amount": "1大块，切丝"
+    },
+    {
+      "name": "蒜",
+      "amount": "1头，切末和拍散各一半"
+    },
+    {
+      "name": "小米椒",
+      "amount": "6到10个"
+    },
+    {
+      "name": "干辣椒",
+      "amount": "10个左右"
+    },
+    {
+      "name": "花椒",
+      "amount": "1小把"
+    },
+    {
+      "name": "香葱",
+      "amount": "2根"
+    },
+    {
+      "name": "香菜",
+      "amount": "少许，可选"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "豆瓣酱",
+      "amount": "1大勺"
+    },
+    {
+      "name": "火锅底料",
+      "amount": "约20g，可选"
+    },
+    {
+      "name": "生抽",
+      "amount": "2勺"
+    },
+    {
+      "name": "蚝油",
+      "amount": "1勺"
+    },
+    {
+      "name": "料酒",
+      "amount": "2勺"
+    },
+    {
+      "name": "白糖",
+      "amount": "1小勺"
+    },
+    {
+      "name": "盐",
+      "amount": "适量"
+    },
+    {
+      "name": "啤酒或高汤",
+      "amount": "300ml"
+    }
+  ],
+  "steps": [
+    {
+      "title": "吐沙和清洗",
+      "heat": "无",
+      "timing": "制作前至少2小时，最好半天",
+      "judgement": "盆底杂质减少，田螺表面洗净无明显泥沙",
+      "content": "买回来的田螺先放入清水，加几滴香油和少许盐静置吐沙，中途换水2到3次。烹饪前用刷子认真刷洗外壳，剪掉尾部尖尖的一小节，这样后面更容易嗦出螺肉，也更好入味。",
+      "note": "田螺处理是否干净直接决定成败，图快容易导致成品有泥腥味和沙感。"
+    },
+    {
+      "title": "焯水定型去腥",
+      "heat": "大火",
+      "timing": "下锅爆炒前",
+      "judgement": "壳口微微张开，表面浮沫明显后即可捞出",
+      "content": "锅里加水、姜片和料酒，水开后倒入田螺，快速焯2分钟。看到浮沫出来就捞出，再次冲洗外壳表面，沥干备用。焯水的目的是带走杂味，也让田螺在后面大火爆炒时不容易出太多脏汤。",
+      "note": "焯水时间不可过长，否则螺肉会先收缩变老，后面再焖就容易发硬。"
+    },
+    {
+      "title": "炒香底料",
+      "heat": "中火",
+      "timing": "锅热后立即进行",
+      "judgement": "豆瓣酱和火锅底料融开出红油，香味冲出来",
+      "content": "锅中稍多放一点油，下姜丝、蒜、花椒、干辣椒、小米椒炒香，再加入豆瓣酱和少量火锅底料翻炒。等油色变红、香味立起来后，说明底料已经炒开，可以进入主食材。",
+      "note": "炒底料时别用大火猛烧，辣椒和花椒一旦焦苦，整锅味道都会发黑发苦。"
+    },
+    {
+      "title": "大火爆炒田螺",
+      "heat": "大火",
+      "timing": "底料炒香后立刻下田螺",
+      "judgement": "田螺壳被红油均匀包裹，锅气明显",
+      "content": "倒入沥干的田螺，转大火不断翻炒，让每颗田螺都裹上香辣底料。接着加生抽、蚝油、白糖，沿锅边烹入少量料酒，快速翻匀。此时炒得越透，后面焖煮时香味钻进壳里的效果越好。",
+      "note": "田螺表面如果水分太多会导致爆炒变成焖煮，香气会差很多，所以沥干非常关键。"
+    },
+    {
+      "title": "加液体焖煮后提香",
+      "heat": "中火焖煮，最后大火收香",
+      "timing": "调味翻匀后",
+      "judgement": "汤汁略收、壳内有味，紫苏香味明显但不发黑",
+      "content": "倒入啤酒或高汤，液体没过田螺约一半即可。盖盖焖8到10分钟，让香辣味进入壳内。打开锅盖后加入紫苏、香葱，再大火翻炒1到2分钟，把表面的水汽收掉一些，让香气更集中。出锅前尝咸淡，必要时补一点盐。",
+      "note": "紫苏要最后放，放早了会煮烂变黑，香味也会散掉；汤不宜收得太干，留一点汁更适合蘸着嗦。"
+    }
+  ],
+  "tips": "香辣田螺最核心是前处理和炒香阶段。若第一次做，辣度宁可保守一些，确保不苦、不腥、够香，再慢慢把麻辣程度往上调。",
+  "images": {
+    "cover": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20plate%20of%20cooked%20river%20snails.jpg?width=1400",
+      "fallbackSrc": "./assets/images/spicy-snails-cover.svg",
+      "alt": "香辣田螺参考图"
+    },
+    "gallery": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20plate%20of%20cooked%20river%20snails.jpg?width=1400",
+        "fallbackSrc": "./assets/images/spicy-snails-cover.svg",
+        "alt": "香辣田螺成品图"
+      },
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wok%20Cooking.jpg?width=1400",
+        "fallbackSrc": "./assets/images/spicy-snails-step-1.svg",
+        "alt": "香辣田螺锅中爆炒图"
+      }
+    ]
+  }
+}
