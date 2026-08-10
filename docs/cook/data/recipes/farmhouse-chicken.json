@@ -1,0 +1,144 @@
+{
+  "title": "农家小炒鸡",
+  "slug": "farmhouse-chicken",
+  "summary": "鸡块香辣入味，青红椒鲜亮，锅气足、酱香足，是非常典型的下饭家常硬菜。",
+  "difficulty": "进阶",
+  "time": {
+    "label": "45分钟左右"
+  },
+  "tags": {
+    "mainIngredient": "鸡肉",
+    "flavor": "香辣酱香",
+    "scene": [
+      "下饭",
+      "家常",
+      "聚餐"
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "鸡腿肉或土鸡块",
+      "amount": "800g"
+    },
+    {
+      "name": "青椒",
+      "amount": "2个"
+    },
+    {
+      "name": "红椒",
+      "amount": "1个"
+    },
+    {
+      "name": "洋葱",
+      "amount": "半个，可选"
+    },
+    {
+      "name": "姜",
+      "amount": "1块"
+    },
+    {
+      "name": "蒜",
+      "amount": "6瓣"
+    },
+    {
+      "name": "干辣椒",
+      "amount": "6到10个"
+    },
+    {
+      "name": "葱段",
+      "amount": "2根"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "生抽",
+      "amount": "2勺"
+    },
+    {
+      "name": "老抽",
+      "amount": "半勺"
+    },
+    {
+      "name": "蚝油",
+      "amount": "1勺"
+    },
+    {
+      "name": "豆瓣酱",
+      "amount": "1勺"
+    },
+    {
+      "name": "料酒",
+      "amount": "1勺"
+    },
+    {
+      "name": "白糖",
+      "amount": "半勺"
+    },
+    {
+      "name": "盐",
+      "amount": "适量"
+    }
+  ],
+  "steps": [
+    {
+      "title": "鸡块简单腌制",
+      "heat": "无",
+      "timing": "下锅前10到15分钟",
+      "judgement": "鸡块表面均匀沾上调味，不再明显出血水",
+      "content": "鸡块洗净沥干后，加料酒、生抽少许和姜片抓匀，静置10分钟左右。青红椒切块，蒜拍散，姜切片。鸡块如果水分过多，后面不好炒出锅气，所以可以用厨房纸简单吸一下表面水分。",
+      "note": "这道菜不需要复杂腌制，重点是去掉表面多余水分，让鸡块下锅后能先煸后炒。"
+    },
+    {
+      "title": "煸鸡出油出香",
+      "heat": "中火到中大火",
+      "timing": "鸡块入锅前8分钟",
+      "judgement": "鸡皮收紧，边角略金黄，锅里析出少量鸡油",
+      "content": "热锅后下少量油，把鸡块摊开煸炒，尽量让鸡皮一面先接触锅底。煸到水汽明显减少、表面开始焦香时，再翻面继续炒。这个阶段不要急着频繁翻动，适当让它接触锅底，才能形成香味基础。",
+      "note": "鸡块如果一直翻，会只是在“煮”，不会有煸香效果。"
+    },
+    {
+      "title": "下配料和酱料提味",
+      "heat": "中火",
+      "timing": "鸡块开始变色后",
+      "judgement": "豆瓣酱炒匀、蒜姜香味明显、鸡块挂色",
+      "content": "下姜、蒜、干辣椒炒香，再加入豆瓣酱翻炒，让酱香裹住鸡块。随后加入蚝油、老抽、白糖和剩余生抽，翻炒均匀。整个锅里会开始出现明显的香辣酱香味，这时鸡肉已经有了第一层底味。",
+      "note": "老抽只需少量，不然颜色容易发黑，失去农家小炒鸡红亮的感觉。"
+    },
+    {
+      "title": "少量加水焖透鸡肉",
+      "heat": "先大火后中小火",
+      "timing": "酱料裹匀后",
+      "judgement": "鸡腿肉轻松熟透，土鸡块也基本入味",
+      "content": "沿锅边加少量热水，不需要没过鸡块，约半碗到一碗即可。大火煮开后转中小火焖8到12分钟，让鸡肉熟透并把味道吃进去。如果用的是土鸡块，时间可适当延长；如果是嫩鸡腿肉，则不要焖太久。",
+      "note": "这道菜不是红烧，水不能太多，否则会失去“小炒”的干香和锅气。"
+    },
+    {
+      "title": "加入青红椒快速翻炒收尾",
+      "heat": "大火",
+      "timing": "鸡肉九成熟时",
+      "judgement": "青红椒断生但保持脆嫩，锅里汁水基本收拢",
+      "content": "加入青红椒和洋葱，大火快速翻炒1到2分钟，让配菜刚断生就好。最后撒葱段，尝味道后补一点盐即可出锅。理想状态是鸡块香、酱汁薄而挂味、辣椒脆爽有锅气。",
+      "note": "青红椒不能久炒，不然颜色发暗且失去清脆，整道菜也会显得疲软。"
+    }
+  ],
+  "tips": "如果你更喜欢餐馆那种偏干香的版本，可以在最后把汁收得更紧一点；如果偏爱拌饭，则保留少量薄汁更合适。",
+  "images": {
+    "cover": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laziji%20at%20Beijing%20Yibin%20Hostel%20(20210625111300).jpg?width=1400",
+      "fallbackSrc": "./assets/images/stir-fried-chicken-cover.svg",
+      "alt": "农家小炒鸡参考图"
+    },
+    "gallery": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Laziji%20at%20Beijing%20Yibin%20Hostel%20(20210625111300).jpg?width=1400",
+        "fallbackSrc": "./assets/images/stir-fried-chicken-cover.svg",
+        "alt": "农家小炒鸡成品图"
+      },
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wok-stir-fry-cooper%20(8735184221).jpg?width=1400",
+        "fallbackSrc": "./assets/images/stir-fried-chicken-step-1.svg",
+        "alt": "农家小炒鸡锅中快炒图"
+      }
+    ]
+  }
+}
