@@ -1,0 +1,152 @@
+{
+  "title": "水煮肉片",
+  "slug": "boiled-pork-slices",
+  "summary": "麻辣鲜香、肉片滑嫩，底菜吸满汤汁特别下饭，关键在肉片上浆和最后的泼油激香。",
+  "difficulty": "进阶",
+  "time": {
+    "label": "35分钟左右"
+  },
+  "tags": {
+    "mainIngredient": "猪肉",
+    "flavor": "麻辣鲜香",
+    "scene": [
+      "下饭",
+      "宴客",
+      "川味"
+    ]
+  },
+  "ingredients": [
+    {
+      "name": "里脊肉",
+      "amount": "300到400g"
+    },
+    {
+      "name": "豆芽",
+      "amount": "1大把"
+    },
+    {
+      "name": "生菜或油麦菜",
+      "amount": "1把"
+    },
+    {
+      "name": "蒜末",
+      "amount": "6瓣量"
+    },
+    {
+      "name": "姜末",
+      "amount": "1勺"
+    },
+    {
+      "name": "干辣椒段",
+      "amount": "1大把"
+    },
+    {
+      "name": "花椒",
+      "amount": "1把"
+    },
+    {
+      "name": "葱花",
+      "amount": "适量"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "豆瓣酱",
+      "amount": "1大勺"
+    },
+    {
+      "name": "火锅底料",
+      "amount": "15到20g"
+    },
+    {
+      "name": "生抽",
+      "amount": "1勺"
+    },
+    {
+      "name": "料酒",
+      "amount": "1勺"
+    },
+    {
+      "name": "淀粉",
+      "amount": "2勺"
+    },
+    {
+      "name": "蛋清",
+      "amount": "半个，可选"
+    },
+    {
+      "name": "白胡椒粉",
+      "amount": "少许"
+    },
+    {
+      "name": "盐",
+      "amount": "适量"
+    },
+    {
+      "name": "食用油",
+      "amount": "最后泼油约4勺"
+    }
+  ],
+  "steps": [
+    {
+      "title": "切肉上浆",
+      "heat": "无",
+      "timing": "下锅前15分钟",
+      "judgement": "肉片吸收水分后略微发黏，表面有薄浆感",
+      "content": "里脊肉逆纹切成薄片，先加少许盐、白胡椒粉、料酒抓匀，再加1到2勺清水顺一个方向抓到发黏，让肉片先吃水。接着加入蛋清和淀粉抓匀，最后淋一点点油锁浆，静置10到15分钟。",
+      "note": "上浆不要省略“吃水”这一步，肉片是否滑嫩，关键就看前面有没有把水打进去。"
+    },
+    {
+      "title": "焯熟底菜垫碗",
+      "heat": "大火",
+      "timing": "煮汤前先完成",
+      "judgement": "豆芽断生，叶菜变软但仍保持颜色",
+      "content": "锅中烧水，加一点盐和几滴油，先把豆芽焯到断生，再焯叶菜，捞出后铺在大碗底部。这样既能让底菜保持清爽，也能保证后面浇上热汤时不会因为生涩影响口感。",
+      "note": "底菜不要焯太熟，否则浇汤后会变得软烂塌陷。"
+    },
+    {
+      "title": "炒底料煮红汤",
+      "heat": "中火",
+      "timing": "底菜准备好后",
+      "judgement": "豆瓣酱炒出红油，汤色红亮不发黑",
+      "content": "锅里放油，下姜末、部分蒜末、豆瓣酱和火锅底料炒香炒出红油，再加适量清水或高汤煮开。调入少量生抽和盐，尝一下汤底，应该是略咸一点、略重口一点，因为后面还要裹在肉片和底菜上才刚好。",
+      "note": "火候过大会把豆瓣酱炒糊，汤色会发暗且带苦味。"
+    },
+    {
+      "title": "滑熟肉片",
+      "heat": "转小火到中火",
+      "timing": "汤开后立即进行",
+      "judgement": "肉片变色卷起，中心不再发红但仍柔软",
+      "content": "把火调小一点，确保汤处于开而不暴滚的状态，肉片一片片下入，不要一次全倒。下完后用筷子轻轻拨散，看到肉片全部变色后再煮20到30秒即可，连汤一起倒入铺了底菜的大碗中。",
+      "note": "暴滚会冲散肉片表面的浆，导致肉片发老、汤也浑；肉片熟得很快，千万别久煮。"
+    },
+    {
+      "title": "铺辣椒花椒泼热油",
+      "heat": "热油高温激香",
+      "timing": "装碗后马上完成",
+      "judgement": "表面辣椒花椒被热油激出香味，能听到明显呲啦声",
+      "content": "在肉片表面铺上剩余蒜末、干辣椒段、花椒和葱花。另起锅烧热食用油，油热到微微冒烟后，分次均匀泼在表面。热油会瞬间把麻辣香气全部激发出来，成菜香味一下就立住了。",
+      "note": "油温不足香味出不来，油温过高又会把辣椒炸糊发苦，看到轻微冒烟时最合适。"
+    }
+  ],
+  "tips": "如果家里有人不太能吃辣，可减少火锅底料和干辣椒量，但花椒最好保留一点，能让整体风味更完整。",
+  "images": {
+    "cover": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuizhu%20Roupian%20at%20Daqian%20Restaurant%2C%20Dachenglu%20(20260126131330).jpg?width=1400",
+      "fallbackSrc": "./assets/images/boiled-pork-cover.svg",
+      "alt": "水煮肉片参考图"
+    },
+    "gallery": [
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuizhu%20Roupian%20at%20Daqian%20Restaurant%2C%20Dachenglu%20(20260126131330).jpg?width=1400",
+        "fallbackSrc": "./assets/images/boiled-pork-cover.svg",
+        "alt": "水煮肉片成品图"
+      },
+      {
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Wok%20Cooking.jpg?width=1400",
+        "fallbackSrc": "./assets/images/boiled-pork-step-1.svg",
+        "alt": "水煮肉片锅中烹调图"
+      }
+    ]
+  }
+}
